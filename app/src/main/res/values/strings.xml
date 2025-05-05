@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Healthcare NFC</string>
+    <string name="patient_avatar">Ảnh đại diện bệnh nhân</string>
+
+    <!-- Placeholders: sẽ được ghi đè bằng dữ liệu từ NFC -->
+    <string name="patient_name">--</string>
+    <string name="patient_phone">Phone: --</string>
+    <string name="patient_email">Email: --</string>
+    <string name="patient_gender_age">Age: --   Gender: --</string>
+    <string name="patient_dob">Date of birth: --</string>
+
+    <!-- Required for fragments/navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="age_gender_format">Age: %1$d   Gender: %2$s</string>
+
+    <!-- Additional visit screen strings -->
+    <string name="calendar_icon_desc">Calendar icon</string>
+    <string name="sample_date">Apr 25, 2016</string>
+    <string name="sample_time">03:06 PM</string>
+</resources>
